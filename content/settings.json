@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#5005ad",
   "theme": {
-    "bootswatch": "cerulean"
+    "bootswatch": "flatly"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/minas1.png",
