@@ -1,17 +1,22 @@
 {
   "marketing_stripe": {
-    "text": "Enjoy our discounts of up to 40%!",
+    "text": "Frete Fixo R$30,00 para cidade de SP e Grande ABC ",
     "link": "promotion"
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre nós",
+        "title": "Loja Física em SP ",
         "link": "/pages/sobre-nos"
       },
       {
-        "title": "Esta loja é um PWA",
-        "link": "/posts/esta-loja-e-um-pwa"
+        "title": "Compre online e Retire na Loja Física SP "
+      },
+      {
+        "title": "Atacado "
+      },
+      {
+        "title": "Minas Cristais para Todo Brasil , clique aqui"
       }
     ],
     "phone_wpp": true,
