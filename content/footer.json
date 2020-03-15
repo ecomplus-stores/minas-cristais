@@ -5,16 +5,16 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Pages",
+    "title": "Páginas",
     "list": []
   },
   "links_2": {
     "list_categories": true,
-    "title": "Categories",
+    "title": "Menu",
     "list": []
   },
   "contacts": {
-    "title": "Contacts",
+    "title": "Nossos Contatos",
     "phone_wpp": true,
     "socials": true,
     "email": true,
@@ -27,7 +27,7 @@
     }
   ],
   "payment_methods": {
-    "bb": true,
+    "bb": false,
     "visa": true,
     "boleto": true,
     "aura": false,
@@ -35,12 +35,13 @@
     "elo": true,
     "hipercard": false,
     "hsbc": false,
-    "bradesco": true,
-    "santander": false,
+    "bradesco": false,
+    "santander": true,
     "mastercard": true,
+    "paypal": true,
     "citibank": false,
     "mais": false,
-    "itau": true
+    "itau": false
   },
-  "credits": ""
+  "credits": "<a href=\"http://www.alyma.com.br/\" target=\"_blank\" alt=\"Quer uma loja virtual personalizada?\" title=\"Quer uma loja virtual personalizada?\" style=\"font-size:12PX; font-family: arial;color:#a7a7a7;font-weight: 700;  text-decoration: none;\"> Layout e adaptação:Alyma</a>"
 }
