@@ -30,7 +30,7 @@
     margin-top: -.15rem;
 }
 .header__toggler__icon {
-    color: #223663;
+    color: #ffffff;
     font-size: 0.9rem;
     margin-right: .25rem;
     margin-bottom: -.13rem;
@@ -194,3 +194,52 @@ a {
     border-top: .25rem solid #ffffff;
     color: var(--gray);
 }
+h1 {
+    font-size: 1.0rem;
+}
+
+.ec-product__sku {
+    color: var(--gray);
+    font-size: .3rem;
+}
+
+.ec-prices--big .ec-prices__value {
+    font-size: 190%;
+    margin-bottom: .25rem;
+    color: #190d3c;
+}
+.ec-product__short-stock {
+    color: #9390ce;font-size: .7rem;
+}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    color: #fff;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: #4296bb;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 0.9rem;
+    line-height: 1.5;
+    border-radius: 1.4rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.lead {
+    font-size: 0.85rem;
+    font-weight: 300; color:#000;
+}
+p {
+    margin-top: 0;
+    font-size: 0.6rem;
+}
+.svg-inline--fa.fa-w-8 {
+    width: 0.0em;
+}
+.footer__links {font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    font-size: .53rem;}
