@@ -26,12 +26,12 @@
       "type": "image/png"
     }
   ],
-  "name": "Minas Cristais",
-  "short_name": "MyShop",
+  "name": "Loja SP - Minas Cristais ",
+  "short_name": "Loja SP - Minas Cristais ",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
-  "description": "My PWA Shop",
+  "description": "Loja em São Paulo de Pedras e Cristais , enviamos somente para estado de SP. Compre online e retire em nossa loja de SP. Para compras nos demais estados compre em www.minascristais.com.br ",
   "background_color": "#ffffff",
   "theme_color": "#5005ad"
 }
