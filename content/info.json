@@ -8,7 +8,7 @@
     "text": "Parcele suas compras em até 5x sem juros "
   },
   "exchange": {
-    "show": true,
+    "show": false,
     "text": ""
   },
   "promo": {
