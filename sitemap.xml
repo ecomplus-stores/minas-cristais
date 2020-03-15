@@ -242,6 +242,30 @@
     </url>
   
     <url>
+      <loc>https://minascristaissp.netlify.com/aliancas-e-aneis</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://minascristaissp.netlify.com/colares</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://minascristaissp.netlify.com/pulseiras</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
+      <loc>https://minascristaissp.netlify.com/pingentes</loc>
+      <changefreq>weekly</changefreq>
+      <priority>0.8</priority>
+    </url>
+  
+    <url>
       <loc>https://minascristaissp.netlify.com/pages/contato</loc>
       <changefreq>monthly</changefreq>
       <priority>0.7</priority>
