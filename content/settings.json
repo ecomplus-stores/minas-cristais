@@ -7,8 +7,8 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/minas1.png",
-  "name": "Minas Cristais",
-  "short_name": "MyShop",
+  "name": "Loja SP - Minas Cristais ",
+  "short_name": "Loja SP - Minas Cristais ",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "/img/uploads/minas1.png",
@@ -17,6 +17,6 @@
   "secondary_color": "#d4d4d4",
   "icon": "/img/uploads/logomini.png",
   "store_id": 1085,
-  "description": "My PWA Shop",
+  "description": "Loja em São Paulo de Pedras e Cristais , enviamos somente para estado de SP. Compre online e retire em nossa loja de SP. Para compras nos demais estados compre em www.minascristais.com.br ",
   "large_icon": "/img/uploads/logomini.png"
 }
