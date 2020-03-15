@@ -1,18 +1,19 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Envio Somente para Cidade de São Paulo e Grande ABC "
   },
   "installments": {
     "show": true,
-    "text": "Parcele sem juros"
+    "text": "Parcele suas compras em até 5x sem juros "
   },
   "exchange": {
     "show": true,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "text": ""
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
-  }
+    "text": "Compre online e retire na Loja de São Paulo ou use o frete fixo em suas compras "
+  },
+  "main_price": "discount"
 }
