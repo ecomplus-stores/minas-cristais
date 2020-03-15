@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#5005ad",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "cerulean"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/minas1.png",
@@ -14,7 +14,7 @@
   "mini_logo": "/img/uploads/minas1.png",
   "favicon": "/img/uploads/logomini.png",
   "country_code": "BR",
-  "secondary_color": "#d4d4d4",
+  "secondary_color": "#4d4d4d",
   "icon": "/img/uploads/logomini.png",
   "store_id": 1085,
   "description": "Loja em São Paulo de Pedras e Cristais , enviamos somente para estado de SP. Compre online e retire em nossa loja de SP. Para compras nos demais estados compre em www.minascristais.com.br ",
