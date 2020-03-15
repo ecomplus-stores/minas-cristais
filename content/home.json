@@ -10,6 +10,8 @@
     ]
   },
   "pitbar": true,
-  "showcase": [],
+  "showcase": [
+    {}
+  ],
   "additional_content": ""
 }
