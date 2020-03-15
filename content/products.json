@@ -1,8 +1,8 @@
 {
-  "pitbar": false,
+  "pitbar": true,
   "related": {
     "showcase": true,
-    "title": "Produtos relacionados"
+    "title": "Selecionamos esses produtos para você!"
   },
   "recommended": {
     "showcase": true,
