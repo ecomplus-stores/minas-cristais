@@ -5,3 +5,192 @@
     font-family: 'Montserrat', sans-serif;
   font-size: 0.6rem;
     }
+.header a.header__countdown {
+    background: #712ec3;
+    color: var(--primary-yiq);
+}
+.header__countdown {
+    display: block;
+    background: var(--secondary);
+    color: var(--secondary-yiq);
+    text-align: center;
+    font-weight: 300;
+    font-size: 0.8rem;
+    padding: .4rem;
+}
+.header__toggler {
+    color: #370456;
+    opacity: .85;
+    padding: .5rem .2rem;
+    height: 100%;
+    font-size: 0.8rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    transition: opacity .15s;
+    margin-top: -.15rem;
+}
+.header__toggler__icon {
+    color: #223663;
+    font-size: 0.9rem;
+    margin-right: .25rem;
+    margin-bottom: -.13rem;
+}
+.header__logo {
+    max-width: 300px;
+    max-height: 200px;
+    width: auto;
+    height: auto;
+}
+.form-control-lg {
+    height: calc(1.5em + 1rem + 2px);
+    padding: .5rem 1rem;
+    font-size: 0.85rem;
+    line-height: 1.5;
+    border-radius: .6rem;
+}
+.header__container {
+    max-width: 80rem;
+    background: #fff;
+    padding: 0.0rem 1rem 1rem;
+}
+
+.btn-light {
+    background: #8c91d0;
+}
+.btn-lg {
+    padding: .5rem 1rem;
+    font-size: 0.75rem;
+    line-height: 1.9;
+    border-radius: .9rem;
+}
+.badge-primary {
+    color: #fff;
+    background-color: #2e0a61;
+}
+.pitbar {
+    width: 100%;
+    max-width: 80rem;
+    margin-left: auto;
+    margin-right: auto;
+    background: #cecece;
+    color: #737373;
+}
+.pitbar__item {
+    
+    text-transform: uppercase;
+    display: flex;
+    color: inherit;
+    align-items: center;
+    position: relative;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    font-size: .6rem;
+    font-weight: 500;
+}
+.glide__bullet {
+    z-index: 3;
+    opacity: .6;
+    cursor: pointer;
+    padding: 0;
+    line-height: 0;
+    transition: opacity .15s ease,background-color .2s,border .2s;
+    background: #b9c0e6;
+    border: 1.5px solid #c7ced4;
+    width: 1rem;
+    height: .6rem;
+    border-radius: .3rem;
+    margin: 0 0 0 .25rem;
+}
+.h4{argin-bottom: .5rem;
+    font-family: Montserrat,-apple-system,system-ui,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,sans-serif;
+    font-weight: 500;
+    line-height: 1.2;
+    color: #240a75;
+}
+.glide__arrow{color: #504c8e;}
+.ec-product-card__name {
+    margin-top: .5rem;
+    font-size: .6rem;
+    line-height: 1.2;
+    height: 2.168rem;
+    overflow: hidden;
+    font-weight: 400;
+    display: block;
+    z-index: 1;
+}
+.ec-product-card__prices .ec-prices__value:first-child {
+    margin-top: 0.3rem;
+}
+.ec-prices__value {
+    display: block;
+    font-size: 0.95rem;
+}
+.body{color: #0c0d42;}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    color: #888;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 0.5;
+    border-radius: .4rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    color: #888;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 0.5;
+    border-radius: .4rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.footer__title {
+    font-size: 0.75rem;
+    font-weight: 500;
+    margin-bottom: .5rem;
+    display: block;
+    color: #090850;
+}
+a {
+    color: #616161;
+    text-decoration: none;
+    background-color: transparent;font-size: 0.55rem;
+}
+.footer__credits {
+    padding-top: 0rem;
+    margin-top: 1rem;
+    border-top: 1px solid #4d4d4d00;
+    font-size: .25rem; font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.ecom-credits {
+    padding: 0.5rem;
+    background: #efefef;
+    text-align: center;
+    font-size: .55rem;
+    color: #37003c;
+}
+.footer {
+    background: #efefef;
+    border-top: .25rem solid #ffffff;
+    color: var(--gray);
+}
