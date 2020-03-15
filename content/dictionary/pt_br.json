@@ -1,13 +1,13 @@
 {
-  "buy": "Comprar",
-  "need_help": "Precisa de ajuda",
-  "call_to": "Ligue",
-  "search_products": "Buscar produtos",
-  "open_cart": "Abrir carrinho",
-  "my_account": "Minha conta",
-  "popular_products": "Produtos populares",
-  "see_all_category": "Ver toda a categoria :name",
-  "product_description": "Descrição do produto",
   "product_specifications": "Especificações do produto",
-  "safe_env": "Ambiente 100% seguro"
+  "buy": "Comprar",
+  "see_all_category": "Ver toda a categoria :name",
+  "popular_products": "Produtos populares",
+  "need_help": "Precisa de ajuda",
+  "product_description": "Descrição do produto",
+  "open_cart": "Ver Minhas Compras",
+  "my_account": "Minha conta",
+  "safe_env": "Ambiente 100% seguro",
+  "search_products": "Buscar produtos",
+  "call_to": "Ligue"
 }
