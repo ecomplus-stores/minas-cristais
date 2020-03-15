@@ -19,7 +19,7 @@
         "title": "Minas Cristais para Todo Brasil , clique aqui"
       }
     ],
-    "phone_wpp": true,
+    "phone_wpp": false,
     "socials": true
   }
 }
