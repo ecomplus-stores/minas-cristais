@@ -1,22 +1,22 @@
 {
-  "store_id": 1085,
-  "name": "Minas Cristais",
   "domain": "minascristaissp.netlify.com",
-  "short_name": "MyShop",
-  "description": "My PWA Shop",
-  "primary_color": "#383d44",
-  "secondary_color": "#7F7F7F",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#5005ad",
   "theme": {
     "bootswatch": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/minas1.png",
+  "name": "Minas Cristais",
+  "short_name": "MyShop",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "/img/uploads/minas1.png",
+  "favicon": "/img/uploads/logomini.png",
+  "country_code": "BR",
+  "secondary_color": "#d4d4d4",
+  "icon": "/img/uploads/logomini.png",
+  "store_id": 1085,
+  "description": "My PWA Shop",
+  "large_icon": "/img/uploads/logomini.png"
 }
