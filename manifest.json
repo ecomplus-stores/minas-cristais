@@ -27,7 +27,7 @@
     }
   ],
   "name": "Loja SP - Minas Cristais ",
-  "short_name": "Loja SP - Minas Cristais ",
+  "short_name": "MinasCristais",
   "orientation": "portrait",
   "display": "standalone",
   "start_url": ".",
